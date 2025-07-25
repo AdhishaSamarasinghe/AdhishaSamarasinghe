@@ -1,10 +1,10 @@
 # 👋 Hi there, I'm Adhisha!
 I'm a passionate Computer Science student who loves to build cool things with code. 
 
-- 🔭 I’m currently working on: [Project Name or Goal]
-- 🌱 I’m learning: [Frameworks, Tools, Languages]
+- 🔭 I’m currently studying at: university of westminster
+- 🌱 I’m learning: Java, Python, HTML
 - 💬 Ask me about: Java, Python, Git, and Web Development
-- 📫 How to reach me: [Your email or socials]
+- 📫 How to reach me: adhishanilhara@gmail.com
 - ⚡ Fun fact: I love playing guitar and writing songs 🎸🎶
 
 ---
@@ -18,6 +18,6 @@ I'm a passionate Computer Science student who loves to build cool things with co
 ---
 
 ### 📈 GitHub Stats
-![Adesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdhishaSamarasinghe&show_icons=true&theme=radical)
+![Adhisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdhishaSamarasinghe&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdhishaSamarasinghe&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
