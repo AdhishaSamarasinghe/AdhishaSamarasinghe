@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Adesha!
+# 👋 Hi there, I'm Adhisha!
 I'm a passionate Computer Science student who loves to build cool things with code. 
 
 - 🔭 I’m currently working on: [Project Name or Goal]
