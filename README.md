@@ -22,6 +22,5 @@ I'm a passionate Computer Science student who loves to build cool things with co
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdhishaSamarasinghe&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![Visitors](https://shields-io-visitor-counter.vercel.app/adshgithub?label=visitors&color=0f9d58&style=flat)
 
 
