@@ -1,50 +1,78 @@
+<!-- Animated Header -->
 <h1 align="center">Hi 👋, I'm Adhisha Samarasinghe</h1>
-<h3 align="center">💻 Passionate Computer Science Student | 🚀 Future Software Engineer</h3>
+<h3 align="center">🚀 Aspiring Software Engineer | 💻 Full-Stack Enthusiast | 🎸 Music Lover</h3>
 
----
-
-### 👨‍💻 About Me
-- 🎓 Studying at **University of Westminster**
-- 🔭 Currently working on **Web Applications & Software Projects**
-- 🌱 Learning **Java, Python, and Full-Stack Development**
-- 💬 Ask me about **Java, Python, Git, Web Development**
-- 🎸 Fun fact: I love **playing guitar & writing songs**
-
----
-
-### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,git,vscode" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I+love+building+cool+projects;Java+%7C+Python+%7C+Web+Dev;Always+learning+new+things+🚀" />
 </p>
 
 ---
 
-### 🚀 Projects
-- 💼 **WorkzUp** – Job Marketplace Platform  
-- 🎵 **Studio Booking System** – Manage band practice sessions & schedules  
-- 🌐 More coming soon...
+## 🧠 About Me
+- 🎓 Computer Science Student at **University of Westminster**
+- 🔭 Currently building **real-world web applications**
+- 🌱 Learning **Java, Python, and Full-Stack Development**
+- 💡 Interested in **Software Engineering & DevOps**
+- 🎸 I write songs and play guitar in my free time
 
 ---
 
-### 📫 Connect With Me
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,git,github,vscode" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+### 💼 WorkzUp – Job Marketplace Platform
+- Connects job seekers with recruiters  
+- Built using modern web technologies  
+- Includes authentication, job posting & applications  
+
+### 🎵 Studio Booking System
+- Helps bands manage practice sessions  
+- Tracks availability & calculates payments  
+- Simple and efficient scheduling system  
+
+---
+
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdhishaSamarasinghe&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdhishaSamarasinghe&theme=radical&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdhishaSamarasinghe&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/AdhishaSamarasinghe/AdhishaSamarasinghe/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌐 Connect With Me
 <p align="center">
   <a href="mailto:adhishanilhara@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdhishaSamarasinghe&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdhishaSamarasinghe&layout=compact&theme=tokyonight" />
-</p>
+## ⚡ Fun Fact
+> 🎶 "I debug code and write songs with the same passion."  
 
 ---
 
-### ⚡ Quote I Like
-> "Code. Create. Conquer." 🚀
+## 🚀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AdhishaSamarasinghe&label=Profile%20views&color=blueviolet&style=flat" />
+</p>
 
 ---
