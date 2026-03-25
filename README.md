@@ -26,9 +26,12 @@
 
 ## 🚀 Featured Projects
 ### 💼 WorkzUp – Job Marketplace Platform
+🔗 Live Demo: https://workzup.lk  
+📂 GitHub Repo: https://github.com/AdhishaSamarasinghe/workzup  
+
 - Connects job seekers with recruiters  
-- Built using modern web technologies  
 - Includes authentication, job posting & applications  
+- Built with modern full-stack technologies   
 
 ### 🎵 Studio Booking System
 - Helps bands manage practice sessions  
