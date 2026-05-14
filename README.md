@@ -227,7 +227,7 @@
 
 <div align="center">
 
-<img src="https://github.com/AdhishaSamarasinghe/AdhishaSamarasinghe/blob/output/pacman-contribution-graph.svg" />
+<img src="https://github.com/AdhishaSamarasinghe/AdhishaSamarasinghe/blob/output/pacman-contribution-graph-dark.svg" />
 
 </div>
 
