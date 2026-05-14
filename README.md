@@ -24,19 +24,7 @@
 
 ---
 
-# ⚡ Fun Facts
 
-<div align="center">
-
-🎵 I code better with music  
-🌙 Night owl developer  
-☕ Coffee + Coding = Productivity  
-🎨 Love creating modern UI experiences  
-🚀 Turning ideas into real products  
-
-</div>
-
----
 
 # 🧠 Currently Learning
 
@@ -53,6 +41,19 @@
 - Backend Scalability
 - Cloud Deployment
 - System Design
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://streak-stats.demolab.com?user=AdhishaSamarasinghe&theme=tokyonight&hide_border=true"/>
+
+</div>
+
 
 ---
 
@@ -232,35 +233,8 @@
 
 ---
 
-# 📚 Favorite Tech Quote
 
-<div align="center">
 
-> “Programs must be written for people to read, and only incidentally for machines to execute.”
-
-</div>
-
----
-
-# 🌍 Open Source Goals
-
-- Contribute to developer tools
-- Build reusable UI components
-- Share open-source templates
-- Help beginner developers
-- Create impactful web experiences
-
----
-
-# ⏰ Coding Schedule
-
-```text
-🌅 Morning    → Learning & Research
-☀️ Afternoon  → Building Projects
-🌙 Night      → UI Experiments & Freelancing
-```
-
----
 
 # 🎮 Outside Tech
 
@@ -271,18 +245,6 @@
 🎨 UI Inspiration  
 📸 Creative Design  
 🌍 Exploring New Technologies  
-
-</div>
-
----
-
-# 📬 Let's Collaborate
-
-<div align="center">
-
-💡 Open for Freelance Projects  
-🚀 Open to Collaborations  
-🌟 Building Creative Web Experiences  
 
 </div>
 
