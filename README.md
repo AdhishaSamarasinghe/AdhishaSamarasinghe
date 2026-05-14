@@ -223,16 +223,13 @@
 
 ---
 
-# 🎨 Design Philosophy
+# 🎮 Interactive Contribution Graph
 
 <div align="center">
 
-"Minimal Design. Smooth Experience. Powerful Functionality."
+<img src="https://github.com/AdhishaSamarasinghe/AdhishaSamarasinghe/blob/output/pacman-contribution-graph.svg" />
 
 </div>
-
----
-
 
 
 
